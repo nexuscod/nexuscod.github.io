@@ -1,0 +1,30 @@
+{
+    "en": {
+        "title": "Changelog",
+        "entries": [
+            {
+                "version": "1.0.0",
+                "date": "2024-05-30",
+                "changes": [
+                    "Initial release",
+                    "Added feedback feature",
+                    "Improved UI design"
+                ]
+            }
+        ]
+    },
+    "es": {
+        "title": "Registro de cambios",
+        "entries": [
+            {
+                "version": "1.0.0",
+                "date": "2024-05-30",
+                "changes": [
+                    "Lanzamiento inicial",
+                    "Se agrega funcionalidad de feedback",
+                    "Diseño de UI mejorado"
+                ]
+            }
+        ]
+    }
+}

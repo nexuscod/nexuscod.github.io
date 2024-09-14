@@ -1,0 +1,182 @@
+{
+    "en": {
+        "title": "Attributions",
+        "attributions": [
+            {
+                "name": "Open Source Libraries",
+                "items": [
+                    {
+                        "name": "Flutter",
+                        "url": "https://flutter.dev",
+                        "description": "An open-source UI software development toolkit created by Google."
+                    },
+                    {
+                        "name": "Dart",
+                        "url": "https://dart.dev",
+                        "description": "A client-optimized programming language for apps on multiple platforms."
+                    },
+                    {
+                        "name": "bloc",
+                        "url": "https://pub.dev/packages/bloc",
+                        "description": "A predictable state management library that helps implement the BLoC (Business Logic Component) design pattern."
+                    },
+                    {
+                        "name": "easy_localization",
+                        "url": "https://pub.dev/packages/easy_localization",
+                        "description": "Easy and fast localization of your Flutter app."
+                    },
+                    {
+                        "name": "flutter_bloc",
+                        "url": "https://pub.dev/packages/flutter_bloc",
+                        "description": "Flutter Widgets that make it easy to implement the BLoC design pattern."
+                    },
+                    {
+                        "name": "flutter_svg",
+                        "url": "https://pub.dev/packages/flutter_svg",
+                        "description": "An SVG rendering and widget library for Flutter."
+                    },
+                    {
+                        "name": "get_it",
+                        "url": "https://pub.dev/packages/get_it",
+                        "description": "Simple direct Service Locator for Dart and Flutter apps."
+                    },
+                    {
+                        "name": "google_fonts",
+                        "url": "https://pub.dev/packages/google_fonts",
+                        "description": "A Flutter package for using fonts from fonts.google.com."
+                    },
+                    {
+                        "name": "http",
+                        "url": "https://pub.dev/packages/http",
+                        "description": "A composable, multi-platform, Future-based API for HTTP requests."
+                    },
+                    {
+                        "name": "isar",
+                        "url": "https://pub.dev/packages/isar",
+                        "description": "Super Fast Cross Platform Database for Flutter."
+                    },
+                    {
+                        "name": "path_provider",
+                        "url": "https://pub.dev/packages/path_provider",
+                        "description": "A Flutter plugin for finding commonly used locations on the filesystem."
+                    },
+                    {
+                        "name": "shared_preferences",
+                        "url": "https://pub.dev/packages/shared_preferences",
+                        "description": "Flutter plugin for reading and writing simple key-value pairs."
+                    },
+                    {
+                        "name": "url_launcher",
+                        "url": "https://pub.dev/packages/url_launcher",
+                        "description": "Flutter plugin for launching a URL in the mobile platform."
+                    }
+                ]
+            },
+            {
+                "name": "UI and Design Resources",
+                "items": [
+                    {
+                        "name": "Google Fonts",
+                        "url": "https://fonts.google.com",
+                        "description": "Free licensed font families hosted by Google."
+                    },
+                    {
+                        "name": "Material Icons",
+                        "url": "https://material.io/resources/icons",
+                        "description": "Material design icon library."
+                    }
+                ]
+            }
+        ]
+    },
+    "es": {
+        "title": "Atribuciones",
+        "attributions": [
+            {
+                "name": "Bibliotecas de Código Abierto",
+                "items": [
+                    {
+                        "name": "Flutter",
+                        "url": "https://flutter.dev",
+                        "description": "Un kit de herramientas de desarrollo de software de interfaz de usuario de código abierto creado por Google."
+                    },
+                    {
+                        "name": "Dart",
+                        "url": "https://dart.dev",
+                        "description": "Un lenguaje de programación optimizado para aplicaciones en múltiples plataformas."
+                    },
+                    {
+                        "name": "bloc",
+                        "url": "https://pub.dev/packages/bloc",
+                        "description": "Una biblioteca de gestión de estado predecible que ayuda a implementar el patrón de diseño BLoC (Business Logic Component)."
+                    },
+                    {
+                        "name": "easy_localization",
+                        "url": "https://pub.dev/packages/easy_localization",
+                        "description": "Localización fácil y rápida de tu aplicación Flutter."
+                    },
+                    {
+                        "name": "flutter_bloc",
+                        "url": "https://pub.dev/packages/flutter_bloc",
+                        "description": "Widgets de Flutter que facilitan la implementación del patrón de diseño BLoC."
+                    },
+                    {
+                        "name": "flutter_svg",
+                        "url": "https://pub.dev/packages/flutter_svg",
+                        "description": "Una biblioteca de widgets y renderizado SVG para Flutter."
+                    },
+                    {
+                        "name": "get_it",
+                        "url": "https://pub.dev/packages/get_it",
+                        "description": "Localizador de servicios directo y simple para aplicaciones Dart y Flutter."
+                    },
+                    {
+                        "name": "google_fonts",
+                        "url": "https://pub.dev/packages/google_fonts",
+                        "description": "Un paquete de Flutter para usar fuentes de fonts.google.com."
+                    },
+                    {
+                        "name": "http",
+                        "url": "https://pub.dev/packages/http",
+                        "description": "Una API compuesta, multiplataforma y basada en Futures para solicitudes HTTP."
+                    },
+                    {
+                        "name": "isar",
+                        "url": "https://pub.dev/packages/isar",
+                        "description": "Base de datos multiplataforma súper rápida para Flutter."
+                    },
+                    {
+                        "name": "path_provider",
+                        "url": "https://pub.dev/packages/path_provider",
+                        "description": "Un plugin de Flutter para encontrar ubicaciones comúnmente utilizadas en el sistema de archivos."
+                    },
+                    {
+                        "name": "shared_preferences",
+                        "url": "https://pub.dev/packages/shared_preferences",
+                        "description": "Plugin de Flutter para leer y escribir pares clave-valor simples."
+                    },
+                    {
+                        "name": "url_launcher",
+                        "url": "https://pub.dev/packages/url_launcher",
+                        "description": "Plugin de Flutter para lanzar una URL en la plataforma móvil."
+                    }
+                ]
+            },
+            {
+                "name": "Recursos de UI y Diseño",
+                "items": [
+                    {
+                        "name": "Google Fonts",
+                        "url": "https://fonts.google.com",
+                        "description": "Familias de fuentes con licencia gratuita alojadas por Google."
+                    },
+                    {
+                        "name": "Material Icons",
+                        "url": "https://material.io/resources/icons",
+                        "description": "Biblioteca de íconos de diseño de Material."
+                    }
+                ]
+            }
+        ]
+    }
+}

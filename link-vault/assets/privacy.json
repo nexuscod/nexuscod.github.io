@@ -1,0 +1,80 @@
+{
+    "en": {
+        "title": "Privacy Policy",
+        "lastUpdated": "2024-08-11",
+        "content": [
+            {
+                "section": "LinkVault Privacy Policies",
+                "text": "Link Vault is an application that allows users to store links and organize them by categories. We value your privacy, and therefore, we do not collect, store, or share any personal information."
+            },
+            {
+                "section": "Information We Collect",
+                "subsections": [
+                    {
+                        "title": "Personal Information",
+                        "text": "Link Vault does not collect personal information. The links you save are stored locally on your device and are not transmitted to external servers."
+                    },
+                    {
+                        "title": "Usage Data",
+                        "text": "We collect information on how you access and use our service, including your IP address, browser type, and the pages you visit."
+                    },
+                    {
+                        "title": "Data Access",
+                        "text": "Link Vault does not access other sensitive data on your device, such as contacts, messages, or files. All information remains on your device."
+                    }
+                ]
+            },
+            {
+                "section": "Security",
+                "text": "As Link Vault does not require credentials or handle sensitive data, the security risk is minimal. The information about your links is protected by your operating system's security policies."
+            },
+            {
+                "section": "Changes to This Policy",
+                "text": "We may update this privacy policy in the future. You will be notified of any changes through the app. You can always review the most current version of our policies in the settings menu."
+            },
+            {
+                "section": "Contact Us",
+                "text": "If you have any questions or concerns about our privacy policy, you can contact us at developers2922@gmail.com."
+            }
+        ]
+    },
+    "es": {
+        "title": "Política de Privacidad",
+        "lastUpdated": "2024-08-11",
+        "content": [
+            {
+                "section": "Introducción",
+                "text": "Link Vault es una aplicación que permite a los usuarios almacenar enlaces y organizarlos por categorías. Valoramos su privacidad, y por lo tanto, no recopilamos, almacenamos ni compartimos ninguna información personal."
+            },
+            {
+                "section": "Información que Recopilamos",
+                "subsections": [
+                    {
+                        "title": "Información Personal",
+                        "text": "Link Vault no recopila información personal. Los enlaces que guarda se almacenan localmente en su dispositivo y no se transmiten a servidores externos."
+                    },
+                    {
+                        "title": "Uso de Datos",
+                        "text": "La información almacenada en Link Vault es únicamente para su uso personal, con el fin de facilitar el acceso a sus enlaces los cuales también estarán organizados por categorías. La aplicación no accede a información adicional."
+                    },
+                    {
+                        "title": "Acceso a Datos",
+                        "text": "Link Vault no accede a otros datos sensibles en su dispositivo, como contactos, mensajes o archivos. Toda la información permanece en su dispositivo."
+                    }
+                ]
+            },
+            {
+                "section": "Seguridad",
+                "text": "Dado que Link Vault no requiere credenciales ni maneja datos sensibles, el riesgo de seguridad es mínimo. La información sobre sus enlaces está protegida por las políticas de seguridad de su sistema operativo."
+            },
+            {
+                "section": "Cambios en las Políticas de Privacidad",
+                "text": "Podemos actualizar estas políticas de privacidad en el futuro. Se le notificará de cualquier cambio a través de la aplicación. Siempre podrá revisar la versión más actualizada de nuestras políticas en el menú de configuración."
+            },
+            {
+                "section": "Contáctenos",
+                "text": "Si tiene alguna pregunta o preocupación acerca de nuestras políticas de privacidad, puede contactarnos a través del correo electrónico developers2922@gmail.com."
+            }
+        ]
+    }
+}

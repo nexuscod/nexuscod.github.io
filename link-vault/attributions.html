@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Attributions</title>
+    <link rel="stylesheet" href="css/attributions.css">
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const lang = urlParams.get('lang') || 'en';
+            fetch('assets/attributions.json')
+                .then(response => response.json())
+                .then(data => {
+                    const attributions = data[lang];
+
+                    document.getElementById('title').innerText = attributions.title;
+
+                    const attributionsContainer = document.getElementById('attributions');
+                    attributions.attributions.forEach(section => {
+                        const sectionTitle = document.createElement('h2');
+                        sectionTitle.innerText = section.name;
+                        attributionsContainer.appendChild(sectionTitle);
+
+                        const itemList = document.createElement('ul');
+                        section.items.forEach(item => {
+                            const listItem = document.createElement('li');
+
+                            const itemName = document.createElement('a');
+                            itemName.href = item.url;
+                            itemName.innerText = item.name;
+                            itemName.target = "_blank";
+
+                            const itemDescription = document.createElement('p');
+                            itemDescription.innerText = item.description;
+
+                            listItem.appendChild(itemName);
+                            listItem.appendChild(itemDescription);
+                            itemList.appendChild(listItem);
+                        });
+                        attributionsContainer.appendChild(itemList);
+                    });
+                })
+                .catch(error => {
+                    console.error('Error fetching the JSON: ', error);
+                });
+        });
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1 id="title"></h1>
+        <div id="attributions"></div>
+    </div>
+</body>
+</html>
